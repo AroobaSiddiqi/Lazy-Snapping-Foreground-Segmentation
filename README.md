@@ -1,6 +1,6 @@
 # Image Segmentation using K-Means Clustering
 
-Lazy Snapping Foreground Segmentation
+Lazy Snapping Foreground Segmentation : 
 This Python script performs image segmentation using K-Means Clustering algorithm. Given an original image and a seed image indicating background and foreground regions, the script separates the image into foreground and background segments. It employs OpenCV, NumPy, Matplotlib, and SciPy libraries for image processing and clustering.
 
 ## Requirements
