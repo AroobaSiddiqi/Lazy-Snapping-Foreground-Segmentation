@@ -31,7 +31,7 @@ This Python script performs image segmentation using K-Means Clustering algorith
 
 ## Example
 
-For example, if `k = 70`, the segmented image will be saved in a folder named `70` as `image-stroke.png.png`.
+For example, if `k = 70`, the segmented image will be saved in a folder named `70` as `image-stroke.png`.
 
 ## Note
 
